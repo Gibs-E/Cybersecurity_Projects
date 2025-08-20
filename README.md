@@ -1,15 +1,6 @@
-Cybersecurity_Projects/
-│
-├── Malware_Analysis/
-│   └── README.md
-│
-├── Network_Forensics/
-│   └── README.md
-│
-├── Threat_Intel_Reports/
-│   └── README.md
-│
-├── Security_Automation/       # optional (Python scripts, log parsers, etc.)
-│   └── README.md
-│
-└── README.md   # repo overview
+# Cybersecurity_Projects/
+
+- [Malware Analysis](./Malware_Analysis)
+- [Network Forensics](./Network_Forensics)
+- [Threat Intel Reports](./Threat_Intel_Reports)
+- [Securitiy Automation](./Security_Automation)
