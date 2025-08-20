@@ -1,4 +1,4 @@
-# Cybersecurity_Projects/
+# Cybersecurity_Projects
 
 - [Malware Analysis](./Malware_Analysis)
 - [Network Forensics](./Network_Forensics)
