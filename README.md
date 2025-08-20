@@ -2,5 +2,5 @@
 
 - [Malware Analysis](./Malware_Analysis)
 - [Network Forensics](./Network_Forensics)
-- [Threat Intel Reports](./Threat_Intel_Reports)
+- [Threat Intel Reports](./Threat_Intelligence_Reports)
 - [Securitiy Automation](./Security_Automation)
