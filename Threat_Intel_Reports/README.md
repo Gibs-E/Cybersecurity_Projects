@@ -1,4 +1,4 @@
-# Threat Intelligence Reports
+# Threat_Intel_reports
 Research and reports on emerging cyber threats, attack patterns, and adversary TTPs.
 
 ## Contents
